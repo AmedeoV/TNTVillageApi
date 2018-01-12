@@ -1,0 +1,10 @@
+/home/amedeo/TNTVillageApi/bin/Debug/netcoreapp2.0/TNTVillageApi.deps.json
+/home/amedeo/TNTVillageApi/bin/Debug/netcoreapp2.0/TNTVillageApi.runtimeconfig.json
+/home/amedeo/TNTVillageApi/bin/Debug/netcoreapp2.0/TNTVillageApi.runtimeconfig.dev.json
+/home/amedeo/TNTVillageApi/bin/Debug/netcoreapp2.0/TNTVillageApi.dll
+/home/amedeo/TNTVillageApi/bin/Debug/netcoreapp2.0/TNTVillageApi.pdb
+/home/amedeo/TNTVillageApi/obj/Debug/netcoreapp2.0/TNTVillageApi.csproj.CoreCompileInputs.cache
+/home/amedeo/TNTVillageApi/obj/Debug/netcoreapp2.0/TNTVillageApi.AssemblyInfoInputs.cache
+/home/amedeo/TNTVillageApi/obj/Debug/netcoreapp2.0/TNTVillageApi.AssemblyInfo.cs
+/home/amedeo/TNTVillageApi/obj/Debug/netcoreapp2.0/TNTVillageApi.dll
+/home/amedeo/TNTVillageApi/obj/Debug/netcoreapp2.0/TNTVillageApi.pdb
